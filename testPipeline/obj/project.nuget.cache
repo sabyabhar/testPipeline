@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DCBoMLSD8ZoFj82xYsFPxckgTvItCWzpKUrumBjNyF1epmTHLpHOZ1k1WQTblTe7ust/o4n9GzIn4xRBSu2jyg==",
+  "dgSpecHash": "lCNLR76fe4gRHTvRHzP0tumj4loC2IHa4QpIqeRn2fRzNS2KSROEUSw+cR+VrGiy7wb6S7yoZrmqzlbqYpOa/Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\sabyasanchibhardwaj\\source\\repos\\testPipeline\\testPipeline\\testPipeline.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sabyasanchibhardwaj\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\sabyasanchibhardwaj\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sabyasanchibhardwaj\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\sabyasanchibhardwaj\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\sabyasanchibhardwaj\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\sabyasanchibhardwaj\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
